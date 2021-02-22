@@ -22,5 +22,5 @@ To run generated application in a web browser go into project folder and use com
    
 If you make updates to native code you should run command : `ionic cap sync`
 
-Command: `ionic cap open ios` - will open native iOS project in XCode
-Command: `ionic cap open android` - will open native iOS project in Android Studio
+Command: `ionic cap open ios` - will open native iOS project in XCode (XCode needs to be installed)</br>
+Command: `ionic cap open android` - will open native iOS project in Android Studio (Android Studio needs to be installed)
